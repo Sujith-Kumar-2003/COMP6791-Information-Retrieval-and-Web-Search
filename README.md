@@ -17,10 +17,20 @@ This repository includes:
 
 ## Structure
 
-/COMP6791-Information-Retrieval-and-Web-Search │ ├── /materials # Course materials │ ├── lecture_notes.md │ ├── readings/ │ └── other_resources/ │ ├── /labs # Lab exercises │ ├── lab1/ │ ├── lab2/ │ └── ... │ ├── /projects # Course projects │ ├── project1/ │ ├── project2/ │ └── ... │ └── progress.md # My progress and reflections
-
-bash
-Copy code
+/COMP6791-Information-Retrieval-and-Web-Search │
+├── /materials # Course materials │
+├── lecture_notes.md │
+├── readings/ │
+└── other_resources/ │
+├── /labs # Lab exercises │
+├── lab1/ │
+├── lab2/ │
+└── ... │
+├── /projects # Course projects │
+├── project1/ │
+├── project2/ │
+└── ... │
+└── progress.md # My progress and reflections
 
 ## Getting Started
 
@@ -40,10 +50,10 @@ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+## Contact
 
 If you have any questions or would like to connect, feel free to reach out to me:
 
-LinkedIn: Sujith Kumar
-GitHub: Sujith-Kumar-2003
+- **LinkedIn**: [Sujith Kumar](https://www.linkedin.com/in/sujith-kumar-2003cassy/)
+- **GitHub**: [Sujith-Kumar-2003](https://github.com/Sujith-Kumar-2003)
 Thank you for visiting my repository! I look forward to sharing my learning journey in COMP6791 - Information Retrieval and Web Search.
