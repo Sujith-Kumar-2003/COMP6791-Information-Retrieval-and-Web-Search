@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5d113a3-84b3-4e8d-bf91-bc1c2aba1898" name="Changes" comment="Uploaded the course materials.">
-      <change afterPath="$PROJECT_DIR$/.idea/COMP6791-Information-Retrieval-and-Web-Search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project1/PreprocessingPipeline.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1/Demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1/Demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project1/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1/new.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +224,7 @@
       <workItem from="1727992484234" duration="226000" />
       <workItem from="1727992995862" duration="109000" />
       <workItem from="1727993112802" duration="229000" />
-      <workItem from="1728762264992" duration="7612000" />
+      <workItem from="1728762264992" duration="10372000" />
     </task>
     <task id="LOCAL-00001" summary="Uploaded the course materials.">
       <option name="closed" value="true" />
@@ -252,15 +250,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727372930210</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Uploaded the course materials.">
+      <option name="closed" value="true" />
+      <created>1728843040082</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728843040082</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Uploaded the course materials." />
     <MESSAGE value="Updated the project 1 of the course" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the project 1 of the course" />
+    <MESSAGE value="Uploaded the course materials." />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded the course materials." />
   </component>
 </project>
