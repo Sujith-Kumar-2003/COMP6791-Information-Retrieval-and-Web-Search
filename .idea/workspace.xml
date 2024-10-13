@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5d113a3-84b3-4e8d-bf91-bc1c2aba1898" name="Changes" comment="Uploaded the course materials.">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project1/new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/COMP6791-Information-Retrieval-and-Web-Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project1/PreprocessingPipeline.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1/new.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +38,12 @@
     &quot;assignee&quot;: &quot;Sujith-Kumar-2003&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Sujith-Kumar-2003/COMP6791-Information-Retrieval-and-Web-Search.git&quot;,
-    &quot;accountId&quot;: &quot;aa1380e3-9df0-4140-8862-5f9e17db6c6a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sujith-Kumar-2003/COMP6791-Information-Retrieval-and-Web-Search.git",
+    "accountId": "b7c5c383-407c-47c5-9d47-00922df7dc31"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -57,7 +59,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.Scripts.executor": "Debug",
+    "Python.Scripts.executor": "Run",
+    "Python.new (2).executor": "Run",
     "Python.new.executor": "Profiler",
     "Python.pip3.exe.executor": "Run",
     "Python.test.executor": "Run",
@@ -66,7 +69,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Python312/Scripts",
+    "last_opened_file_path": "/Users/sujithkumaravel/Downloads/Unison_Project1/COMP6791-Information-Retrieval-and-Web-Search",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,7 +78,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.sync",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -94,7 +97,7 @@
       <command value="new" />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Scripts">
+  <component name="RunManager">
     <configuration name="Scripts" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,6 +116,29 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Python312/Scripts" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project1/new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -150,7 +176,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (Info_retrieval_proj1)" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -169,10 +194,12 @@
     <list>
       <item itemvalue="Python.Scripts" />
       <item itemvalue="Python.pip3.exe" />
+      <item itemvalue="Python.new (2)" />
       <item itemvalue="Python.new" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.new (2)" />
         <item itemvalue="Python.new" />
       </list>
     </recent_temporary>
@@ -180,8 +207,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
       </set>
     </attachedChunks>
   </component>
@@ -197,6 +224,9 @@
       <workItem from="1727992005424" duration="385000" />
       <workItem from="1727992416979" duration="60000" />
       <workItem from="1727992484234" duration="226000" />
+      <workItem from="1727992995862" duration="109000" />
+      <workItem from="1727993112802" duration="229000" />
+      <workItem from="1728762264992" duration="7612000" />
     </task>
     <task id="LOCAL-00001" summary="Uploaded the course materials.">
       <option name="closed" value="true" />
@@ -230,6 +260,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Uploaded the course materials." />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded the course materials." />
+    <MESSAGE value="Updated the project 1 of the course" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the project 1 of the course" />
   </component>
 </project>
