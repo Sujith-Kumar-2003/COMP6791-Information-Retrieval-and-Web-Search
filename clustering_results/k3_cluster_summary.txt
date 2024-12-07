@@ -1,0 +1,9 @@
+Cluster 1:
+term, occurrences, watchdog, vol5no1, 89752, 89773, 89818, 89837, 89841, 89846, 89707, coronavirus, fam, mario, newton, répond, 89704, 89690, 89700, 90128
+
+Cluster 2:
+89690, 89700, 89704, eludamos, term, occurrences, watchdog, 89841, 89707, 89752, 89773, 89818, 89837, 90128, 89846, vol5no1, coronavirus, emily, fam, mario
+
+Cluster 3:
+90128, emily, 89638, term, occurrences, répond, 89837, 89690, 89700, 89704, 89707, 89752, 89773, 89818, 89841, 89846, vol5no1, coronavirus, eludamos, fam
+

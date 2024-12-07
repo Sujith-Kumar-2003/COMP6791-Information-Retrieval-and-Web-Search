@@ -1,0 +1,18 @@
+Cluster 1:
+term, occurrences, 89773, répond, newton, mario, fam, 89846, 89841, 89752, watchdog, 89690, 89700, 89704, 89707, 90128, 89818, 89837, vol5no1, coronavirus
+
+Cluster 2:
+coronavirus, 89837, term, occurrences, watchdog, 89841, 89690, 89700, 89704, 89707, 89752, 89773, 89818, 90128, 89846, vol5no1, eludamos, emily, fam, mario
+
+Cluster 3:
+89690, 89700, 89704, eludamos, term, occurrences, watchdog, 89841, 89707, 89752, 89773, 89818, 89837, 90128, 89846, vol5no1, coronavirus, emily, fam, mario
+
+Cluster 4:
+watchdog, 89818, term, occurrences, 89841, 89690, 89700, 89704, 89707, 89752, 89773, 89837, 90128, 89846, vol5no1, coronavirus, eludamos, emily, fam, mario
+
+Cluster 5:
+90128, emily, 89638, term, occurrences, répond, 89837, 89690, 89700, 89704, 89707, 89752, 89773, 89818, 89841, 89846, vol5no1, coronavirus, eludamos, fam
+
+Cluster 6:
+89707, vol5no1, term, occurrences, watchdog, 89841, 89690, 89700, 89704, 89752, 89773, 89818, 89837, 90128, 89846, coronavirus, eludamos, emily, fam, mario
+
